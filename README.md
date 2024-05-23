@@ -1,1 +1,1 @@
-# codegen-multilingual-2B
+# CodeGen Multilingual 2B
