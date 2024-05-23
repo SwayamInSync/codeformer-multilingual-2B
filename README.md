@@ -1,1 +1,1 @@
-# CodeGen Multilingual 2B
+# CodeFormer Multilingual 2B
